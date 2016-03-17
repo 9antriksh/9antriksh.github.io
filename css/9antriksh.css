@@ -4,6 +4,9 @@
 .no-padding{
 	padding: 0px;
 }
+.bg-grey{
+	background-color:#eee;
+}
 hr.star-light,
 hr.star-primary {
     margin: 25px auto 30px;
@@ -45,4 +48,13 @@ hr.star-primary:after {
 	background-image: url('../images/cover.jpg');
 	background-size: cover;
 	color: #efefef;
+	padding-top: 100px;
+}
+footer{
+	background-color:#101010;
+	color:#666;
+}
+
+span.icon{
+	color: #aaa;
 }
